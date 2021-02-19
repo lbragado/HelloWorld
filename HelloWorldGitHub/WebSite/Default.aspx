@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        Clase de Inicio Cambio 4
+        Clase de Inicio Cambio 4.0
     </div>
     </form>
 </body>
